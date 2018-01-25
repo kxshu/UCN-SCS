@@ -7,6 +7,7 @@
 * [预付款](yu-fu-kuan.md)
 * [生产](sheng-chan.md)
 * [验货](yan-huo.md)
+* [物流](wu-liu.md)
 
 ## 客户端模块说明
 
