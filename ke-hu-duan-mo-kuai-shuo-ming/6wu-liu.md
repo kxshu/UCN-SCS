@@ -18,6 +18,10 @@ sorcing-negociation-order-loading-port-dc-rdc-店面-customer
 
 Delivery forecast - delivery plan（客户确认运输方式，客户考虑单个SKU的发运计划）- loading plan（大客户可能提前2周开始订集装箱，实际应该是goods ready后才能落实）
 
+
+
+交货预测 - 发运计划 - 装柜清单
+
 #### Loading plan
 
 由客户发起，包含：
