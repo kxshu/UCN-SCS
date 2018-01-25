@@ -4,5 +4,5 @@
 
 ![](/assets/image001.gif)
 
-Finish  - 入库（点数） - 验货（stock为多状态）-&gt; 验货成功-&gt; TBL
+Finish  -&gt; 入库（点数） -&gt; 验货（stock为多状态）-&gt; 验货成功 -&gt; TBL
 
