@@ -23,5 +23,5 @@
 * [8.库存](ke-hu-duan-mo-kuai-shuo-ming/8ku-cun.md)
 * [9.服务订单](ke-hu-duan-mo-kuai-shuo-ming/9fu-wu-ding-dan.md)
 * [10.财务](ke-hu-duan-mo-kuai-shuo-ming/10cai-wu.md)
-* 11.分析报告
+* [11.分析报告](ke-hu-duan-mo-kuai-shuo-ming/11fen-xi-bao-gao.md)
 
