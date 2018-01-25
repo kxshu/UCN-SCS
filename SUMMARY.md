@@ -24,4 +24,6 @@
 * [9.服务订单](ke-hu-duan-mo-kuai-shuo-ming/9fu-wu-ding-dan.md)
 * [10.财务](ke-hu-duan-mo-kuai-shuo-ming/10cai-wu.md)
 * [11.分析报告](ke-hu-duan-mo-kuai-shuo-ming/11fen-xi-bao-gao.md)
+* [12.设置](ke-hu-duan-mo-kuai-shuo-ming/12she-zhi.md)
+* [13.管理后台](ke-hu-duan-mo-kuai-shuo-ming/13guan-li-hou-tai.md)
 
