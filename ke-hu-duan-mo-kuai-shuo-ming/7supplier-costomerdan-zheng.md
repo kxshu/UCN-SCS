@@ -22,7 +22,13 @@ Packing list \(PI\)：Product\Packing details\qty
 
 记录均为实际情况，能导出（大客户定制格式），配给不同单证格式，关联扫描件
 
+### 放单
 
+1. B/L
+   正本寄送
+
+2. 电放（Telex Release）  
+   电子授权
 
 
 
